@@ -1,6 +1,6 @@
 /**************************************************
 
-Write a program that left/right rotates an array n
+Write a program that left/right rotates a matrix n
 times on each row.
 
 SAMPLE INPUT
